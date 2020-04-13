@@ -2,7 +2,9 @@
 lru cache written by go
 
 # Installation
+```
 go get github.com/seifchen/go-lru
+```
 
 # Usage
 ```
